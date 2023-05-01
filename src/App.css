@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  text-align: center;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+button {
+    background: #f50057;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 1.2rem;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+}
